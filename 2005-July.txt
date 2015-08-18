@@ -1,0 +1,12 @@
+From s_t_a_n_i at gmx.net  Mon Jul 18 20:19:32 2005
+From: s_t_a_n_i at gmx.net (Stani Michiels)
+Date: Mon, 18 Jul 2005 20:19:32 +0200
+Subject: [Python-sdxf] DWG support
+Message-ID: <42DBF2B4.40702@gmx.net>
+
+Hi,
+Just to let you know. I'm figuring out if in next release I can also 
+offer support for generating DWG files.
+Stani
+
+
